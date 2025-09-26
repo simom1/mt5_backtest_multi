@@ -117,7 +117,7 @@ MIT License
 
 ## 作者
 
-[Your Name] - [Your Email]
+[Bill] 
 
 ## 致谢
 
